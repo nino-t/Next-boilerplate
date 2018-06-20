@@ -1,5 +1,5 @@
 {
-  "name": "create-next-example-app",
+  "name": "next-boilerplate",
   "scripts": {
     "dev": "next",
     "build": "next build",
